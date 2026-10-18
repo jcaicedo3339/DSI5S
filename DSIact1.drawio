@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="4a22ooRu7gkX43nfYdTv">
+    <mxGraphModel dx="1036" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--1" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&#xa;&lt;code&gt;Sistema de Control de Rescate y Adopción Animal&lt;/code&gt;.&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="249" x="101" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--24" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--26" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--29" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--31" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="limite del sistema" vertex="1">
+          <mxGeometry height="60" width="128" x="370" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--17" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--3" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="personal rescate&amp;nbsp;" vertex="1">
+          <mxGeometry height="41" width="103" x="540.5" y="6.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--15" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--4" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="administrador&amp;nbsp;" vertex="1">
+          <mxGeometry height="44" width="103" x="534" y="-76" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;br&gt;&lt;p&gt;Gestionar usuarios&lt;/p&gt;&lt;p&gt;Consultar reportes&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="701" y="-84" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--8" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;p&gt;Registrar animal&lt;/p&gt;&lt;p&gt;Actualizar datos&lt;/p&gt;" vertex="1">
+          <mxGeometry height="66.5" width="137" x="701" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--21" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--9" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;p&gt;Responsable de adopciones&lt;/p&gt;&lt;div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="116" x="534" y="191" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--19" edge="1" parent="1" source="Prqx3XKWh5vLOBkMbKA--10" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="Prqx3XKWh5vLOBkMbKA--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--10" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Veterinario" vertex="1">
+          <mxGeometry height="41" width="103" x="540.5" y="100.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--11" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Evaluar solicitud&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;R&lt;/span&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;egistrar adopción&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="701" y="181.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Prqx3XKWh5vLOBkMbKA--12" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Registrar consulta Registrar tratamiento" vertex="1">
+          <mxGeometry height="66.5" width="137" x="701" y="88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
